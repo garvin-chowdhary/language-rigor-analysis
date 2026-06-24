@@ -1,0 +1,5 @@
+pyspark
+spacy
+pandas
+matplotlib
+numpy
